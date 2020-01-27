@@ -132,7 +132,7 @@ transition: 0.5s;
 .main .flex-container .flex-items h5{
   font-size: 18px;
   letter-spacing: 0.5px;
-  margin: 0px 20px;
+  margin: 20px 0px;
 }
 .main .flex-container .flex-items p{
   font-style: italic;
