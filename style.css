@@ -116,3 +116,28 @@ transition: 0.5s;
   background-color: #030303;
   color: #01d7a7;
 }
+
+.flex-container{
+  margin-top: 80px;
+  clear: both;
+  float: left;
+  margin-bottom: 40px;
+}
+.main .flex-container .flex-items{
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+  margin-left: 50px;
+}
+.main .flex-container .flex-items h5{
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  margin: 0px 20px;
+}
+.main .flex-container .flex-items p{
+  font-style: italic;
+}
+.main .flex-container .flex-items .text-blue{
+  font-size: 40px;
+  color: blue;
+}
